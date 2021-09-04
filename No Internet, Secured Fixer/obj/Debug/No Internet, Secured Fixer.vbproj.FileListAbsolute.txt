@@ -1,0 +1,12 @@
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\bin\Debug\No Internet, Secured Fixer.exe.config
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\bin\Debug\No Internet, Secured Fixer.exe
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\bin\Debug\No Internet, Secured Fixer.pdb
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\bin\Debug\No Internet, Secured Fixer.xml
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\obj\Debug\No Internet, Secured Fixer.vbproj.AssemblyReference.cache
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\obj\Debug\No_Internet__Secured_Fixer.Form1.resources
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\obj\Debug\No_Internet__Secured_Fixer.Resources.resources
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\obj\Debug\No Internet, Secured Fixer.vbproj.GenerateResource.cache
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\obj\Debug\No Internet, Secured Fixer.vbproj.CoreCompileInputs.cache
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\obj\Debug\No Internet, Secured Fixer.exe
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\obj\Debug\No Internet, Secured Fixer.xml
+C:\Users\Zamp\source\repos\No Internet, Secured Fixer\No Internet, Secured Fixer\obj\Debug\No Internet, Secured Fixer.pdb
